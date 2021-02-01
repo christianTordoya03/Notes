@@ -1,3 +1,2 @@
-body {
-  background-color: coral;
-}
+@import url("./general.css");
+@import url("./days.css");
